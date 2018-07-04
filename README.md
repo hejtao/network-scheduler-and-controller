@@ -11,6 +11,10 @@ TrueTime Network 3 ------Beacon
 - Matlab 2014, Truetime 2.0
 
 
+### 系统框架
+![](https://github.com/jiangtaohe/pb_truncation_controller/blob/master/system.PNG)
+
+
 ### 函数列表
 
 | 函数名称 | 输入参数说明 | 输出参数说明 | 函数功能 |
@@ -24,8 +28,6 @@ TrueTime Network 3 ------Beacon
 |self_tr|||实现 MBT, 计算 FCS 的截断位置 |
 |self_tr2|||不同条件下的 self_tr|
 |self_tr3|||不同条件下的 self_tr|
-
-![](https://github.com/jiangtaohe/pb_truncation_controller/blob/master/system.PNG)
 
 
 
