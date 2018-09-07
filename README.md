@@ -1,4 +1,6 @@
 # 源程序使用说明
+
+### 基本说明
 TrueTime Kernel 1  ---------执行器和传感器        
 TrueTime Kernel 2  ---------控制器    
 TrueTime Network 1 ------GTS    
@@ -6,9 +8,10 @@ TrueTime Network 2 ------CAP
 TrueTime Network 3 ------Beacon     
 
 
-### 基本说明
+### 软件工具
 
-- Matlab 2014, Truetime 2.0
+- Matlab 2014
+- Truetime 2.0
 
 
 ### 调度流程
