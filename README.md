@@ -11,13 +11,15 @@ TrueTime Network 3 ------Beacon
 - Matlab 2014, Truetime 2.0
 
 
-### 系统框架
+### 调度流程
 ![](https://github.com/jiangtaohe/pb_truncation_controller/blob/master/flow.png)
 <br>
 
+### 系统框架
 ![](https://github.com/jiangtaohe/pb_truncation_controller/blob/master/system.png)
 <br>
 
+### Truetime 框图
 ![](https://github.com/jiangtaohe/pb_truncation_controller/blob/master/truetime_block.png)
 
 ### 函数列表
