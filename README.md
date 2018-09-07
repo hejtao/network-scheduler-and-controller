@@ -12,10 +12,13 @@ TrueTime Network 3 ------Beacon
 
 
 ### 系统框架
-![](https://github.com/jiangtaohe/pb_truncation_controller/blob/master/system.PNG)
+![](https://github.com/jiangtaohe/pb_truncation_controller/blob/master/flow.png)
 <br>
 
-![](https://github.com/jiangtaohe/pb_truncation_controller/blob/master/truetime_block.PNG)
+![](https://github.com/jiangtaohe/pb_truncation_controller/blob/master/system.png)
+<br>
+
+![](https://github.com/jiangtaohe/pb_truncation_controller/blob/master/truetime_block.png)
 
 ### 函数列表
 
